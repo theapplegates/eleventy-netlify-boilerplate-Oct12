@@ -7,6 +7,15 @@ tags:
   - environment
   - politics
 ---
+
+<img data-src="https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,w_auto,c_scale/v1632495638/almost-there.jpg"  alt="" class="cld-responsive">
+
+
+{% image "hillshire-farm.jpg", "A yummy sandwich" %}
+
+
+{% image "clown.jpg", "A clown" %}
+
 Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
 ![A sample inlined image](https://source.unsplash.com/random/600x400)
