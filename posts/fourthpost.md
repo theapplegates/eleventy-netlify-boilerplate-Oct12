@@ -8,7 +8,7 @@ tags:
   - politics
 ---
 
-<img data-src="https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,w_auto,c_scale/v1632495638/almost-there.jpg"  alt="" class="cld-responsive">
+<img data-src="https://res.cloudinary.com/paulportfolio/image/upload/w_auto,c_scale,f_auto,q_auto/v1632495638/almost-there.jpg"  alt="" class="cld-responsive">
 
 
 {% image "hillshire-farm.jpg", "A yummy sandwich" %}
